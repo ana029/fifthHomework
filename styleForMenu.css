@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    background-color: black ;
+    color: white;
+    display: inline-block;
+   
+
+} 
+li, a {
+    display: inline-block;
+    color: white;
+    padding: 40px;
+}
+
+li:hover{
+    background-color: red
+    ;
+}
